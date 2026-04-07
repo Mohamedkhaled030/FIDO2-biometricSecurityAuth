@@ -51,7 +51,7 @@ It allows users to register and log in securely using their device's native biom
 
 🖥️ **Step 5: Redirect to Home**
 > User is fully registered and active on the Home page.
-![Step 6](WebApplication/ScreenShoot/Register_6Home.png)
+![Step 6](WebApplication/ScreenShoot/Login_3Home.png)
 
 
 ---
