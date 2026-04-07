@@ -42,17 +42,14 @@ It allows users to register and log in securely using their device's native biom
 
 🖥️ **Step 3: Biometric Prompt**
 > Device sensor (Fingerprint/Face) is activated by the browser.
-![Step 3](WebApplication/ScreenShoot/Register_5.png)
+![Step 3](WebApplication/ScreenShoot/Register_4.png)
 
 🖥️ **Step 4: Verification**
 > Validating the biometric cryptographic key.
 ![Step 4](WebApplication/ScreenShoot/Register_5.png)
 
-🖥️ **Step 5: Success**
-> Key successfully mapped and stored in the database.
-![Step 5](WebApplication/ScreenShoot/Register_5.png)
 
-🖥️ **Step 6: Redirect to Home**
+🖥️ **Step 5: Redirect to Home**
 > User is fully registered and active on the Home page.
 ![Step 6](WebApplication/ScreenShoot/Register_6Home.png)
 
