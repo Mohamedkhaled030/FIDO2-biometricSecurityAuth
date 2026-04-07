@@ -46,7 +46,7 @@ It allows users to register and log in securely using their device's native biom
 
 🖥️ **Step 4: Verification**
 > Validating the biometric cryptographic key.
-![Step 4](WebApplication/ScreenShoot/Register_4.png)
+![Step 4](WebApplication/ScreenShoot/Register_5.png)
 
 🖥️ **Step 5: Success**
 > Key successfully mapped and stored in the database.
